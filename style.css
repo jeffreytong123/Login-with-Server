@@ -1,0 +1,170 @@
+/* Styles go here */
+
+#heading {
+  text-align: center;
+}
+
+#notification {
+  color: red;
+}
+
+#login {
+  width: 250px;
+  height: 50px;
+  background-color: green;
+  color: white;
+  border-style: none;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#border {
+  border-style: solid;
+  width: 300px;
+  height: 400px;
+  color: green;
+  background-color: white;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#username {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 200px;
+  height: 40px;
+  background-color: #d9d9d9;
+}
+
+#password {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 200px;
+  height: 40px;
+  background-color: #d9d9d9;
+}
+
+body {
+  background-color: lightgreen;
+}
+
+/*#addCourseBoarder {*/
+/*  border-style: solid;*/
+/*  width: 300px;*/
+/*  min-height: 200px;*/
+/*  color: green;*/
+/*  background-color: #03FCD6;*/
+/*  display: block;*/
+/*  margin-left: 0;*/
+/*  margin-right: auto;*/
+/*  float:left;*/
+/*}*/
+
+#courseBox {
+  border-style: solid;
+  width: 300px;
+  min-height: 200px;
+  color: green;
+  background-color: #03FCD6;
+  display: block;
+  margin-left: 350px;
+}
+
+#logout {
+  float: right;
+}
+
+#courseInfo {
+  border-style: solid;
+  width: 300px;
+  height: 400px;
+  float: right;
+}
+
+#lecturerLogin{
+  margin-left:80px;
+}
+
+#studentLogin{
+  margin-left:80px;
+}
+
+#courseButton{
+  border:none;
+  background-color:inherit;
+  padding:14px 28px;
+  font-size: 16px;
+  cursor:pointer;
+  display:inline-block;
+}
+
+#assignmentButton{
+  border:none;
+  background-color:inherit;
+  padding:14px 28px;
+  font-size: 16px;
+  cursor:pointer;
+  display:inline-block;
+}
+
+#courseDirectoryButton{
+  border:none;
+  background-color:inherit;
+  padding:14px 28px;
+  font-size: 16px;
+  cursor:pointer;
+  display:inline-block;
+}
+
+#courseDirectoryButton:hover{
+  background-color:red;
+  color:white;
+}
+
+#assignmentButton:hover{
+  background-color:red;
+  color:white;
+}
+
+#courseButton:hover{
+  background-color:red;
+  color:white;
+}
+
+#logoutButton{
+  border:none;
+  background-color:inherit;
+  padding:5px 10px;
+  font-size: 16px;
+  cursor:pointer;
+  display:inline-block;
+}
+
+#logoutButton:hover{
+  background-color:red;
+  color:white;
+}
+
+#CD table{
+  margin:auto;
+  text-align:center;
+  border:2px solid black;
+  background:rgb(250, 251, 251);
+  width: 80%;
+  height: 300px;
+  border-collapse: collapse;
+  position: relative;
+  color: black;
+}
+
+ table tr td{
+  padding:4px 30px 4px 8px;
+  border:1px solid black;
+}
+
+
+
