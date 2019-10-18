@@ -1,4 +1,6 @@
-"# Login-with-Server" 
+"# Login-with-Server"
+
+This program was all made on one page and consists of using javascript to hide and show different pages when needed
 
 Usernames and Passwords of login page obtained through a JSON file
 
